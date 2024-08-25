@@ -60,8 +60,8 @@ chmod +x *
 # Usage
 Follow the on-screen prompts to manage users and groups efficiently. The menu-driven interface guides you through each step, ensuring a smooth and error-free experience.
 
-![mainmenu1](https://github.com/user-attachments/assets/a905efc4-2bd5-42ab-8a90-d2b9e04853db)
-![mainmenu2](https://github.com/user-attachments/assets/c73f75a2-571e-415f-aaf1-888e5f6c54a0)
-![mainmenu3](https://github.com/user-attachments/assets/f734db85-7954-49e4-9fc5-5ba5c602ab2f)
-![mainmenu4](https://github.com/user-attachments/assets/48434aa2-c048-440f-b950-466bccf9af5d)
-![mainmenu5](https://github.com/user-attachments/assets/ec6075fa-f656-4e7e-8d06-80ed0f0c4c18)
+![mainmenu1](https://github.com/user-attachments/assets/4a569a1b-2b06-4bd0-a432-a31523fc628a)
+![mainmenu2](https://github.com/user-attachments/assets/8187be1d-1e60-4058-9afd-5607b4b390b5)
+![mainmenu3](https://github.com/user-attachments/assets/506d3f0b-67fc-4c2c-8875-7a434df42811)
+![mainmenu4](https://github.com/user-attachments/assets/aa421b7a-5102-4918-acc8-b10c58cf2041)
+![mainmenu5](https://github.com/user-attachments/assets/8d1a518c-aabd-4346-97a1-0014aff1e26c)
